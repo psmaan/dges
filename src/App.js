@@ -203,6 +203,7 @@ function App() {
               <h1 className='text-md sm:text-xl lg:text-2xl font-light'>Sao Paulo, Brazil</h1>
             </div>
           </div>
+          <h1 className='text-4xl text-[#9d98ea] font-semibold mt-4'>A G20 Event</h1>
           <div className='flex flex-col sm:flex-row items-start sm:items-center mt-12'>
             <button className='p-2 px-3 mx-2 text-xl bg-[#9d98ea] text-white hover:bg-[#8985ca] duration-300 rounded-lg'>
               Download Brochure
